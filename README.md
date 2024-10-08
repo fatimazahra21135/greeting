@@ -1,8 +1,8 @@
 # hello guys
-# Personalized Greeting Program
+Personalized Greeting Program
 
 This simple Python script interacts with the user by asking for their name and giving them a warm, personalized greeting with good wishes. A perfect starting point for learning basic user input and output in Python!
-# Ask for the user's name and greet them with good wishes
+Ask for the user's name and greet them with good wishes
 
 def greet_user():
     # Get the user's name
